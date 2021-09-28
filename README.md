@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p-karthikeyan
 - 👀 I’m interested in problem solvings..
-- 🌱 I’m currently learning python django framework...
-- 💞️ I’m looking to collaborate on coding world -->
+- 🌱 I’m currently learning python django framework and developing my problem solving SKILL...
+- 💞️ I’m pore over to collaborate on coding world -->
 
 
 <!---
